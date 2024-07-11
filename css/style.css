@@ -1,0 +1,19 @@
+:root{
+    --blue-dnc: #0C70F2;
+    --black-dnc: #1F1F1F;
+    --gray-hover: #F2F2F2;
+    --default-font: 'Inter', sans-serif;
+}
+
+header{
+    background-color: var(--blue-dnc);
+    color: white;
+}
+
+main {
+    background-color: var(--gray-hover);
+}
+
+footer{
+    background-color:var(--blue-dnc);
+}
